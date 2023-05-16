@@ -830,9 +830,17 @@
       <Project>{8946c74d-1b45-d6bc-d986-b1a461c07223}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.Hands.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
+      <Project>{e164bf97-a450-a23e-4bc3-eb20f1899494}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
+    </ProjectReference>
     <ProjectReference Include="SteamVR_Editor.csproj">
       <Project>{5c3a1adb-ae4b-94da-a759-def790aabab5}</Project>
       <Name>SteamVR_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
+      <Project>{0e65d3c3-b427-3968-3283-cc286d1a3b32}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Actions.csproj">
       <Project>{2506e2f7-c4f6-b4ef-d08c-3c317e7efff3}</Project>
@@ -849,14 +857,6 @@
     <ProjectReference Include="Unity.XR.Management.Samples.csproj">
       <Project>{425ece8a-5702-c852-bdf8-7953da7d11de}</Project>
       <Name>Unity.XR.Management.Samples</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
-      <Project>{e164bf97-a450-a23e-4bc3-eb20f1899494}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{0e65d3c3-b427-3968-3283-cc286d1a3b32}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
