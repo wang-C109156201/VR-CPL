@@ -37,8 +37,16 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Script/NewBehaviourScript.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets/tingisgood.cs" />
      <Compile Include="Assets/test.cs" />
+=======
+     <Compile Include="Assets/test.cs" />
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets/tingisgood.cs" />
+>>>>>>> a15cf3ef59dbee289000faccb047a61f7ce76044
+>>>>>>> d87a65c4a8362e125578232985ec5ad8613fce28
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -286,6 +294,15 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+<<<<<<< HEAD
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportGeneratorMerged">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+=======
         <HintPath>/Users/lizhiting/VR-CPL/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
@@ -293,6 +310,7 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>/Users/lizhiting/VR-CPL/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+>>>>>>> a15cf3ef59dbee289000faccb047a61f7ce76044
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -661,6 +679,84 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
+<<<<<<< HEAD
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Core">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Analytics">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Environments">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+        <HintPath>/Users/lizhiting/VR-CPL/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+=======
         <HintPath>/Users/lizhiting/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
@@ -737,6 +833,7 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
         <HintPath>/Users/lizhiting/VR-CPL/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+>>>>>>> a15cf3ef59dbee289000faccb047a61f7ce76044
     </Reference>
   </ItemGroup>
   <ItemGroup>
