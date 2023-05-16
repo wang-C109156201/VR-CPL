@@ -37,8 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Script/NewBehaviourScript.cs" />
-     <Compile Include="Assets/test.cs" />
      <Compile Include="Assets/tingisgood.cs" />
+     <Compile Include="Assets/test.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
